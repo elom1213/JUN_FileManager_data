@@ -1,0 +1,31 @@
+{
+  "name": "test",
+  "base_rel": "JP__LUN/JP__Rig",
+  "recursive": true,
+  "folders": [
+    "JP__Revision_00010",
+    "JP__Revision_00010/.mayaSwatches",
+    "JP__Revision_00010/tmp",
+    "JP__Revision_00020_mgear",
+    "JP__Revision_01020_HDN",
+    "JP__Revision_01020_HDN/JP_0020_facialCreate",
+    "JP__Revision_01020_HDN/JP_0020_facialCreate/001_Src_01_Face_LUN_forMirror",
+    "JP__Revision_01020_HDN/JP_0020_facialCreate/001_Src_02_Face_LUN",
+    "JP__Revision_01020_HDN/JP_0020_facialCreate/002_out_01_mirrored",
+    "JP__Revision_01020_HDN/JP_0020_facialCreate/002_out_02",
+    "JP__Revision_01020_HDN/JP_0020_facialCreate/002_out_02/001_02",
+    "JP__Revision_01020_HDN/JP_0020_facialCreate/backup",
+    "JP__Revision_01020_HDN/JP_0030_hairshrink",
+    "JP__Revision_01020_HDN/JP_0030_hairshrink/0010_src",
+    "JP__Revision_01020_HDN/JP_0030_hairshrink/0020_out",
+    "JP__Revision_01020_HDN/JP_0030_hairshrink/backup",
+    "JP__pub",
+    "JP__pub/JP__test_v01",
+    "JP__pub/JP__tmp",
+    "JP__pub/JP__v03",
+    "JP__pub/JP_test_face_v01",
+    "JP__pub/JP_test_hairPhy_v01"
+  ],
+  "created_by": "",
+  "created_at": "2026-06-17 19:03:12"
+}
