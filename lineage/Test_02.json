@@ -1,0 +1,89 @@
+{
+  "name": "Test_02",
+  "nodes": [
+    {
+      "id": "0a9fce9c9ad5448c850a372c93ee29c7",
+      "file_name": "JP__LUN_rig_0120.mb",
+      "key": "JP__LUN/JP__Rig/JP__Revision_00010/JP__LUN_rig_0120.mb",
+      "planned": false,
+      "label": "",
+      "relation": "",
+      "parents": [],
+      "x": 56.16492094531718,
+      "y": -133.02218118627752,
+      "seq": 0
+    },
+    {
+      "id": "9c289e804dbd45448659f615d2344020",
+      "file_name": "JP__LUN_rig_0130.mb",
+      "key": "JP__LUN/JP__Rig/JP__Revision_00010/JP__LUN_rig_0130.mb",
+      "planned": false,
+      "label": "",
+      "relation": "",
+      "parents": [
+        "0a9fce9c9ad5448c850a372c93ee29c7"
+      ],
+      "x": 74.78024235403083,
+      "y": -25.033066357735695,
+      "seq": 1
+    },
+    {
+      "id": "26e07fe7c0b84a739fb08af045b1d925",
+      "file_name": "JP__LUN_rig_0140.mb",
+      "key": "JP__LUN/JP__Rig/JP__Revision_00010/JP__LUN_rig_0140.mb",
+      "planned": false,
+      "label": "",
+      "relation": "",
+      "parents": [
+        "9c289e804dbd45448659f615d2344020"
+      ],
+      "x": 78.61532140871364,
+      "y": 84.92674745134362,
+      "seq": 2
+    },
+    {
+      "id": "95c8cbb108654eb5a7dd39d15a81225d",
+      "file_name": "JP__LUN_rig_0140_mgear_0010.mb",
+      "key": "JP__LUN/JP__Rig/JP__Revision_00020_mgear/JP__LUN_rig_0140_mgear_0010.mb",
+      "planned": false,
+      "label": "",
+      "relation": "",
+      "parents": [
+        "26e07fe7c0b84a739fb08af045b1d925"
+      ],
+      "x": 247.68922585324268,
+      "y": 167.98223604786818,
+      "seq": 3
+    },
+    {
+      "id": "545cd576328b48fbaf1579ef58b34dc9",
+      "file_name": "JP__LUN_rig_0140_mgear_0020.mb",
+      "key": "JP__LUN/JP__Rig/JP__Revision_00020_mgear/JP__LUN_rig_0140_mgear_0020.mb",
+      "planned": false,
+      "label": "",
+      "relation": "",
+      "parents": [
+        "95c8cbb108654eb5a7dd39d15a81225d"
+      ],
+      "x": 269.9888975299176,
+      "y": 289.38067220050186,
+      "seq": 4
+    },
+    {
+      "id": "c80c040d16bd46ae8e07ef5e1be21086",
+      "file_name": "NEW (planned)",
+      "key": "",
+      "planned": true,
+      "label": "제작 예정",
+      "relation": "",
+      "parents": [
+        "26e07fe7c0b84a739fb08af045b1d925"
+      ],
+      "x": 55.804691542099135,
+      "y": 256.55049248498756,
+      "seq": 5
+    }
+  ],
+  "created_by": "",
+  "created_at": "2026-06-18 12:35:12"
+}
