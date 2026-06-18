@@ -1,0 +1,15 @@
+{
+  "key": "00_04_02_ANI_00_PJ_010/scenes/0020_origin_03_GirlsNight/1010_retarget_all_04.mb",
+  "file_name": "1010_retarget_all_04.mb",
+  "author": "ParkJiHun_",
+  "logs": [
+    {
+      "timestamp": "2026-06-17 22:32:46",
+      "author": "ParkJiHun_",
+      "note": "컨트롤릭 세팅된 아바타 모두 레퍼로 임포트.\n리타게팅만 한 씬"
+    }
+  ],
+  "thumb_rel": "",
+  "updated_by": "ParkJiHun_",
+  "updated_at": "2026-06-17 22:32:47"
+}
