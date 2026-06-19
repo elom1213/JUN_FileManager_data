@@ -7,9 +7,14 @@
       "timestamp": "2026-06-18 17:05:20",
       "author": "Dnable_JunnyPark",
       "note": "태범 페이셜 1차 수정본. \nSOP 맞도록 씬 정리 전 파일"
+    },
+    {
+      "timestamp": "2026-06-19 13:46:21",
+      "author": "Dnable_JunnyPark",
+      "note": "조인트 축 안보이도록 업데이트"
     }
   ],
   "thumb_rel": "thumbs/CH/TBM/rig/Revision/RIG_MANU_CH_TBM_Basic_V010.mb.png",
   "updated_by": "Dnable_JunnyPark",
-  "updated_at": "2026-06-18 17:05:27"
+  "updated_at": "2026-06-19 13:46:22"
 }
