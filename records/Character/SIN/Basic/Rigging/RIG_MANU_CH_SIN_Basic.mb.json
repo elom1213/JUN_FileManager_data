@@ -12,9 +12,14 @@
       "timestamp": "2026-06-19 15:14:32",
       "author": "Dnable_JunnyPark",
       "note": "CH 의 RIG_MANU_CH_SIN_Basic_V015.mb 이주"
+    },
+    {
+      "timestamp": "2026-06-19 16:45:58",
+      "author": "Dnable_JunnyPark",
+      "note": "sop 이름 맞춰 씬 정리"
     }
   ],
   "thumb_rel": "thumbs/Character/SIN/Basic/Rigging/RIG_MANU_CH_SIN_Basic.mb.png",
   "updated_by": "Dnable_JunnyPark",
-  "updated_at": "2026-06-19 15:14:32"
+  "updated_at": "2026-06-19 16:46:00"
 }

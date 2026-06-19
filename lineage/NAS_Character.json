@@ -1,0 +1,67 @@
+{
+  "name": "NAS_Character",
+  "nodes": [
+    {
+      "id": "46d5f0f74d694ca088bd12f7324e2f82",
+      "file_name": "CHN_Basic.mb",
+      "key": "Character/CHN/Basic/Rigging/RIG_MANU_CH_CHN_Basic.mb",
+      "planned": false,
+      "label": "",
+      "relation": "",
+      "parents": [],
+      "x": -236.62482119326495,
+      "y": 39.73917459736458,
+      "seq": 0
+    },
+    {
+      "id": "ce41df9c89f74cdb8392b8d1b9cace6a",
+      "file_name": "DHA_Basic.mb",
+      "key": "Character/DHA/Basic/Rigging/RIG_MANU_CH_DHA_Basic.mb",
+      "planned": false,
+      "label": "",
+      "relation": "",
+      "parents": [],
+      "x": -20.42049048316251,
+      "y": 48.62371888726207,
+      "seq": 1
+    },
+    {
+      "id": "e872e8547985426281c032ade8c2babe",
+      "file_name": "LUN_Basic.mb",
+      "key": "Character/LUN/Basic/Rigging/RIG_MANU_CH_LUN_Basic.mb",
+      "planned": false,
+      "label": "",
+      "relation": "",
+      "parents": [],
+      "x": 182.9833308931186,
+      "y": 51.54172767203515,
+      "seq": 2
+    },
+    {
+      "id": "29b500e5a9a043e591a752943600bfde",
+      "file_name": "SIN_Basic.mb",
+      "key": "Character/SIN/Basic/Rigging/RIG_MANU_CH_SIN_Basic.mb",
+      "planned": false,
+      "label": "",
+      "relation": "",
+      "parents": [],
+      "x": 383.0066544655928,
+      "y": 50.430303806735026,
+      "seq": 3
+    },
+    {
+      "id": "01519fe5aa144b58a2964235d895b83a",
+      "file_name": "TBM_Basic.mb",
+      "key": "Character/TBM/Basic/Rigging/RIG_MANU_CH_TBM_Basic.mb",
+      "planned": false,
+      "label": "",
+      "relation": "",
+      "parents": [],
+      "x": 583.2865336749635,
+      "y": 49.37277818448027,
+      "seq": 4
+    }
+  ],
+  "created_by": "",
+  "created_at": "2026-06-19 16:48:25"
+}
