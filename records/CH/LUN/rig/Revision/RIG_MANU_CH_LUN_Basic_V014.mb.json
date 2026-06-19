@@ -7,9 +7,14 @@
       "timestamp": "2026-06-18 17:02:53",
       "author": "Dnable_JunnyPark",
       "note": "루빈 페이셜 1차 수정본. \nSOP 맞도록 씬 정리 전 파일"
+    },
+    {
+      "timestamp": "2026-06-19 12:24:25",
+      "author": "Dnable_JunnyPark",
+      "note": "조인트 축 안보이도록 업데이트"
     }
   ],
   "thumb_rel": "thumbs/CH/LUN/rig/Revision/RIG_MANU_CH_LUN_Basic_V014.mb.png",
   "updated_by": "Dnable_JunnyPark",
-  "updated_at": "2026-06-18 17:03:17"
+  "updated_at": "2026-06-19 12:24:26"
 }

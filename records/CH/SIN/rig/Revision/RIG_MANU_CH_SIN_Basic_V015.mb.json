@@ -1,0 +1,15 @@
+{
+  "key": "CH/SIN/rig/Revision/RIG_MANU_CH_SIN_Basic_V015.mb",
+  "file_name": "RIG_MANU_CH_SIN_Basic_V015.mb",
+  "author": "Dnable_JunnyPark",
+  "logs": [
+    {
+      "timestamp": "2026-06-19 12:26:15",
+      "author": "Dnable_JunnyPark",
+      "note": "조인트 축 안보이도록 업데이트"
+    }
+  ],
+  "thumb_rel": "thumbs/CH/SIN/rig/Revision/RIG_MANU_CH_SIN_Basic_V015.mb.png",
+  "updated_by": "Dnable_JunnyPark",
+  "updated_at": "2026-06-19 12:26:34"
+}
