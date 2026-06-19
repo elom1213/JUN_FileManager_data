@@ -1,0 +1,20 @@
+{
+  "key": "Character/DHA/Basic/Rigging/RIG_MANU_CH_DHA_Basic.mb",
+  "file_name": "RIG_MANU_CH_DHA_Basic.mb",
+  "author": "Dnable_JunnyPark",
+  "logs": [
+    {
+      "timestamp": "2026-06-19 14:43:06",
+      "author": "Dnable_JunnyPark",
+      "note": "SOP 규칙에 맞도록 아바타 리깅 파일 정리"
+    },
+    {
+      "timestamp": "2026-06-19 15:06:09",
+      "author": "Dnable_JunnyPark",
+      "note": "CH 의 RIG_MANU_CH_DHA_Basic_V021.mb 이주"
+    }
+  ],
+  "thumb_rel": "thumbs/Character/DHA/Basic/Rigging/RIG_MANU_CH_DHA_Basic.mb.png",
+  "updated_by": "Dnable_JunnyPark",
+  "updated_at": "2026-06-19 15:06:11"
+}

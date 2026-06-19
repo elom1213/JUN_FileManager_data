@@ -1,0 +1,20 @@
+{
+  "key": "Character/CHN/Basic/Rigging/RIG_MANU_CH_CHN_Basic.mb",
+  "file_name": "RIG_MANU_CH_CHN_Basic.mb",
+  "author": "Dnable_JunnyPark",
+  "logs": [
+    {
+      "timestamp": "2026-06-19 14:42:34",
+      "author": "Dnable_JunnyPark",
+      "note": "SOP 규칙에 맞도록 아바타 리깅 파일 정리"
+    },
+    {
+      "timestamp": "2026-06-19 15:05:24",
+      "author": "Dnable_JunnyPark",
+      "note": "CH 의 RIG_MANU_CH_CHN_Basic_V027.mb 이주"
+    }
+  ],
+  "thumb_rel": "thumbs/Character/CHN/Basic/Rigging/RIG_MANU_CH_CHN_Basic.mb.png",
+  "updated_by": "Dnable_JunnyPark",
+  "updated_at": "2026-06-19 15:05:24"
+}
