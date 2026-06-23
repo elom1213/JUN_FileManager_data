@@ -27,8 +27,8 @@
       ],
       "references": [],
       "color": "",
-      "x": -4.333671952236415,
-      "y": 94.54376535080914,
+      "x": -11.683527510767775,
+      "y": 93.9312773875982,
       "seq": 1
     },
     {
@@ -43,12 +43,46 @@
         "b8ca89590361401f9d70b87b254427e7"
       ],
       "color": "#55aa00",
-      "x": 222.09474027202737,
-      "y": 210.0659019903911,
+      "x": 298.11099257481425,
+      "y": 232.72795662919617,
       "seq": 2
+    },
+    {
+      "id": "73950cfca55b48ac8caf3a718c031b7f",
+      "file_name": "0010_simTest_01.hiplc",
+      "key": "JP__LUN_Set_003/JP__Rig/JP__Revision_01020_HDN_cloWRK/0010_simTest_01.hiplc",
+      "planned": false,
+      "label": "",
+      "relation": "branch",
+      "parents": [
+        "cbf7611b6a3247e48ac493d2949a5b13"
+      ],
+      "references": [],
+      "color": "#aa557f",
+      "x": 101.73781574300838,
+      "y": 381.0353635137754,
+      "seq": 3
+    },
+    {
+      "id": "1053ccdcd4f6415ea40eaf1868643da8",
+      "file_name": "NEW (planned)",
+      "key": "",
+      "planned": true,
+      "label": "제작 예정",
+      "relation": "",
+      "parents": [
+        "73950cfca55b48ac8caf3a718c031b7f"
+      ],
+      "references": [],
+      "color": "#aa557f",
+      "x": 96.67463969689229,
+      "y": 486.42565556702533,
+      "seq": 4
     }
   ],
-  "edge_colors": {},
+  "edge_colors": {
+    "lineage:73950cfca55b48ac8caf3a718c031b7f>1053ccdcd4f6415ea40eaf1868643da8": "#aa557f"
+  },
   "created_by": "",
   "created_at": "2026-06-22 12:15:08"
 }

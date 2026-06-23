@@ -1,0 +1,15 @@
+{
+  "key": "JP__LUN_Set_003/JP__Rig/JP__Revision_01020_HDN_cloWRK/0010_simTest_01.hiplc",
+  "file_name": "0010_simTest_01.hiplc",
+  "author": "Dnable_JunnyPark",
+  "logs": [
+    {
+      "timestamp": "2026-06-23 10:38:05",
+      "author": "Dnable_JunnyPark",
+      "note": "팔꿈치 클로즈 시뮬 테스트 진행중\n부위별 remesh 노드 생성 완료"
+    }
+  ],
+  "thumb_rel": "thumbs/JP__LUN_Set_003/JP__Rig/JP__Revision_01020_HDN_cloWRK/0010_simTest_01.hiplc.png",
+  "updated_by": "Dnable_JunnyPark",
+  "updated_at": "2026-06-23 10:38:05"
+}
