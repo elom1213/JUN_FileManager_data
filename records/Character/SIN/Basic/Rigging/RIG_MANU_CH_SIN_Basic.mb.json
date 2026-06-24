@@ -17,9 +17,14 @@
       "timestamp": "2026-06-19 16:45:58",
       "author": "Dnable_JunnyPark",
       "note": "sop 이름 맞춰 씬 정리"
+    },
+    {
+      "timestamp": "2026-06-23 15:37:10",
+      "author": "Dnable_JunnyPark",
+      "note": "페이셜 눈 감을 때 눈썹 피드백 반영후 수정 완"
     }
   ],
   "thumb_rel": "thumbs/Character/SIN/Basic/Rigging/RIG_MANU_CH_SIN_Basic.mb.png",
   "updated_by": "Dnable_JunnyPark",
-  "updated_at": "2026-06-19 16:46:00"
+  "updated_at": "2026-06-23 16:16:02"
 }
