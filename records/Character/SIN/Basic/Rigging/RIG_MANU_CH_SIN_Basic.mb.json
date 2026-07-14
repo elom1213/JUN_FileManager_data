@@ -22,9 +22,29 @@
       "timestamp": "2026-06-23 15:37:10",
       "author": "Dnable_JunnyPark",
       "note": "페이셜 눈 감을 때 눈썹 피드백 반영후 수정 완"
+    },
+    {
+      "timestamp": "2026-06-25 11:33:21",
+      "author": "Dnable_JunnyPark",
+      "note": "얼굴메시 클린업한 JP__SIN_Basic_0160.mb 파일로 업데이트"
+    },
+    {
+      "timestamp": "2026-06-30 15:09:55",
+      "author": "Dnable_JunnyPark",
+      "note": "발바닥하고 땅 닿게 수정"
+    },
+    {
+      "timestamp": "2026-07-01 17:09:14",
+      "author": "Dnable_JunnyPark",
+      "note": "모프타겟 위치또한 내려서 오류 수정"
+    },
+    {
+      "timestamp": "2026-07-06 14:21:38",
+      "author": "Dnable_JunnyPark",
+      "note": "페이셜 수정\n눈 감을 때 속눈썹 없도록 수정\n이 발음 할 때 윗입술 덜 보이도록 수정\n아 할 때 양 옆 입꼬리 위치 위에 있도록 수정"
     }
   ],
   "thumb_rel": "thumbs/Character/SIN/Basic/Rigging/RIG_MANU_CH_SIN_Basic.mb.png",
   "updated_by": "Dnable_JunnyPark",
-  "updated_at": "2026-06-23 16:16:02"
+  "updated_at": "2026-07-06 14:21:39"
 }

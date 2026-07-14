@@ -1,0 +1,20 @@
+{
+  "key": "JP__SIN/JP__Rig/JP__Revision_0010/JP__SIN_Basic_0190.mb",
+  "file_name": "JP__SIN_Basic_0190.mb",
+  "author": "Dnable_JunnyPark",
+  "logs": [
+    {
+      "timestamp": "2026-07-06 10:21:21",
+      "author": "Dnable_JunnyPark",
+      "note": "페이셜 피드백 7월 3일에 받고 수정 중"
+    },
+    {
+      "timestamp": "2026-07-06 11:08:57",
+      "author": "Dnable_JunnyPark",
+      "note": "눈 감을 때 속눈썹 없도록 수정\n이 발음 할 때 윗입술 덜 보이도록 수정\n아 할 때 양 옆 입꼬리 위치 위에 있도록 수정"
+    }
+  ],
+  "thumb_rel": "",
+  "updated_by": "Dnable_JunnyPark",
+  "updated_at": "2026-07-06 14:19:45"
+}

@@ -1,0 +1,20 @@
+{
+  "key": "JP__TBM/JP__Rig/JP__Revision/JP__TBM_Basic_0120.mb",
+  "file_name": "JP__TBM_Basic_0120.mb",
+  "author": "Dnable_JunnyPark",
+  "logs": [
+    {
+      "timestamp": "2026-07-02 14:12:26",
+      "author": "Dnable_JunnyPark",
+      "note": "\"있잖아..\" 페이셜 촬영 후 페이셜 잘 안 들어온다는 피드백 반영"
+    },
+    {
+      "timestamp": "2026-07-07 13:59:10",
+      "author": "Dnable_JunnyPark",
+      "note": "(재훈님 피드백) 치아 안 움직이는 부분 mouthClose 수정해서 업데이트"
+    }
+  ],
+  "thumb_rel": "",
+  "updated_by": "Dnable_JunnyPark",
+  "updated_at": "2026-07-07 13:59:10"
+}

@@ -1,0 +1,20 @@
+{
+  "name": "Set_template_01",
+  "base_rel": ".",
+  "recursive": true,
+  "max_depth": 6,
+  "folders": [
+    "JP__Model",
+    "JP__Model/JP__Publish",
+    "JP__Model/JP__Publish/JP__v001",
+    "JP__Rig",
+    "JP__Rig/JP__Pub",
+    "JP__Rig/JP__Revision",
+    "JP__Surfacing",
+    "JP__Surfacing/JP__Publish",
+    "JP__Surfacing/JP__Publish/JP__v001",
+    "JP__Surfacing/JP__Revision"
+  ],
+  "created_by": "",
+  "created_at": "2026-07-09 10:42:56"
+}

@@ -17,9 +17,24 @@
       "timestamp": "2026-06-19 16:47:23",
       "author": "Dnable_JunnyPark",
       "note": "sop 이름 맞춰 씬 정리"
+    },
+    {
+      "timestamp": "2026-06-25 12:28:02",
+      "author": "Dnable_JunnyPark",
+      "note": "얼굴메시 클린업"
+    },
+    {
+      "timestamp": "2026-07-03 14:36:36",
+      "author": "Dnable_JunnyPark",
+      "note": "\"있잖아..\" 페이셜 촬영후 페이셜 잘 안들어온다는 피드백 반영"
+    },
+    {
+      "timestamp": "2026-07-07 14:06:18",
+      "author": "Dnable_JunnyPark",
+      "note": "(재훈님 피드백) 치아 안 움직이는 것 mouthClose 수정해서 업데이트"
     }
   ],
   "thumb_rel": "thumbs/Character/TBM/Basic/Rigging/RIG_MANU_CH_TBM_Basic.mb.png",
   "updated_by": "Dnable_JunnyPark",
-  "updated_at": "2026-06-19 16:47:23"
+  "updated_at": "2026-07-07 14:06:18"
 }

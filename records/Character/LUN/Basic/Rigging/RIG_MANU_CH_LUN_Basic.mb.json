@@ -12,9 +12,14 @@
       "timestamp": "2026-06-19 15:07:03",
       "author": "Dnable_JunnyPark",
       "note": "CH 의 RIG_MANU_CH_LUN_Basic_V014.mb 이주"
+    },
+    {
+      "timestamp": "2026-07-03 10:24:14",
+      "author": "Dnable_JunnyPark",
+      "note": "\"있잖아..\" 페이셜 촬영 후 치아관련 피드백 반영. tooth fix 1.3 으로 수정"
     }
   ],
   "thumb_rel": "thumbs/Character/LUN/Basic/Rigging/RIG_MANU_CH_LUN_Basic.mb.png",
   "updated_by": "Dnable_JunnyPark",
-  "updated_at": "2026-06-19 15:07:03"
+  "updated_at": "2026-07-03 10:24:14"
 }
