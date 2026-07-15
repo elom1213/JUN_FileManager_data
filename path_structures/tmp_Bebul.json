@@ -1,0 +1,22 @@
+{
+  "name": "tmp_Bebul",
+  "base_rel": "Bebul",
+  "recursive": true,
+  "max_depth": 9,
+  "folders": [
+    "JP__Basic",
+    "JP__Basic/JP__Modeling",
+    "JP__Basic/JP__Modeling/JP__.mayaSwatches",
+    "JP__Basic/JP__Modeling/JP__Publish",
+    "JP__Basic/JP__Modeling/JP__Publish/JP__v001",
+    "JP__Basic/JP__Modeling/JP__Revision",
+    "JP__Basic/JP__Modeling/JP__Revision/JP__v001",
+    "JP__Basic/JP__Surfacing",
+    "JP__Basic/JP__Surfacing/JP__Publish",
+    "JP__Basic/JP__Surfacing/JP__Publish/JP__v001",
+    "JP__Basic/JP__Surfacing/JP__Revision",
+    "JP__Basic/JP__Surfacing/JP__Revision/JP__v001"
+  ],
+  "created_by": "",
+  "created_at": "2026-07-14 09:36:50"
+}

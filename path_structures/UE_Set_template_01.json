@@ -1,20 +1,17 @@
 {
   "name": "UE_Set_template_01",
-  "base_rel": ".",
+  "base_rel": "Basic",
   "recursive": true,
-  "max_depth": 6,
+  "max_depth": 8,
   "folders": [
     "Data",
     "Material",
     "Rig",
-    "Rig/V01",
-    "Rig/V01/CTR",
-    "Rig/V01/Data_Physics",
-    "Rig/V01/JP__MAT",
-    "Rig/V01/PHY",
-    "Rig/V01/RBFData",
-    "Texture"
+    "Rig/V002",
+    "Rig/V003",
+    "Texture",
+    "Utility"
   ],
   "created_by": "",
-  "created_at": "2026-07-09 10:48:19"
+  "created_at": "2026-07-14 17:12:43"
 }
