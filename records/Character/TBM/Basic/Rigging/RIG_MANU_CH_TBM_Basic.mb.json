@@ -32,9 +32,14 @@
       "timestamp": "2026-07-07 14:06:18",
       "author": "Dnable_JunnyPark",
       "note": "(재훈님 피드백) 치아 안 움직이는 것 mouthClose 수정해서 업데이트"
+    },
+    {
+      "timestamp": "2026-07-21 12:00:16",
+      "author": "Dnable_JunnyPark",
+      "note": "발바닥 땅에 붙도록 위치 수정"
     }
   ],
   "thumb_rel": "thumbs/Character/TBM/Basic/Rigging/RIG_MANU_CH_TBM_Basic.mb.png",
   "updated_by": "Dnable_JunnyPark",
-  "updated_at": "2026-07-07 14:06:18"
+  "updated_at": "2026-07-21 12:00:16"
 }

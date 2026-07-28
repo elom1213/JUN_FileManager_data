@@ -1,0 +1,20 @@
+{
+  "key": "JP__TBM/JP__Rig/JP__Revision/JP__TBM_Basic_0130.mb",
+  "file_name": "JP__TBM_Basic_0130.mb",
+  "author": "Dnable_JunnyPark",
+  "logs": [
+    {
+      "timestamp": "2026-07-20 14:23:36",
+      "author": "Dnable_JunnyPark",
+      "note": "발바닥 땅 위치에 맞게 조절\n포즈 그룹 생성"
+    },
+    {
+      "timestamp": "2026-07-21 14:36:10",
+      "author": "Dnable_JunnyPark",
+      "note": "페이셜 스마일 수정"
+    }
+  ],
+  "thumb_rel": "thumbs/JP__TBM/JP__Rig/JP__Revision/JP__TBM_Basic_0130.mb.png",
+  "updated_by": "Dnable_JunnyPark",
+  "updated_at": "2026-07-21 14:36:11"
+}
