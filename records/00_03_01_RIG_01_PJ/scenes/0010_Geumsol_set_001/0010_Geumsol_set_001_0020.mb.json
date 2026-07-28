@@ -1,0 +1,20 @@
+{
+  "key": "00_03_01_RIG_01_PJ/scenes/0010_Geumsol_set_001/0010_Geumsol_set_001_0020.mb",
+  "file_name": "0010_Geumsol_set_001_0020.mb",
+  "author": "ParkJiHun_",
+  "logs": [
+    {
+      "timestamp": "2026-07-02 20:14:50",
+      "author": "ParkJiHun_",
+      "note": "벨트까지 리깅하고 얼굴, 바디 메시 하나로 합쳐서 페이셜 되는지 확인 완료\n블렌더에서도 들어감. 컨스트레인트 노드만 만들고 fbx 뽑아서 전달 예정"
+    },
+    {
+      "timestamp": "2026-07-04 16:14:31",
+      "author": "ParkJiHun_",
+      "note": "전달 완료"
+    }
+  ],
+  "thumb_rel": "thumbs/00_03_01_RIG_01_PJ/scenes/0010_Geumsol_set_001/0010_Geumsol_set_001_0020.mb.png",
+  "updated_by": "ParkJiHun_",
+  "updated_at": "2026-07-04 16:14:31"
+}

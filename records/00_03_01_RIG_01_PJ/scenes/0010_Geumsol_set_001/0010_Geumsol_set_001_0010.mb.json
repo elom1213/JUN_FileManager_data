@@ -1,0 +1,15 @@
+{
+  "key": "00_03_01_RIG_01_PJ/scenes/0010_Geumsol_set_001/0010_Geumsol_set_001_0010.mb",
+  "file_name": "0010_Geumsol_set_001_0010.mb",
+  "author": "ParkJiHun_",
+  "logs": [
+    {
+      "timestamp": "2026-07-01 19:27:40",
+      "author": "ParkJiHun_",
+      "note": "금솔 얼굴 부분 다 머지, 제로아웃 시키고 블랜더에서 열리도록 웨이트 전이 해야함"
+    }
+  ],
+  "thumb_rel": "thumbs/00_03_01_RIG_01_PJ/scenes/0010_Geumsol_set_001/0010_Geumsol_set_001_0010.mb.png",
+  "updated_by": "ParkJiHun_",
+  "updated_at": "2026-07-01 19:27:41"
+}

@@ -1,0 +1,15 @@
+{
+  "key": "00_03_01_RIG_01_PJ/scenes/0010_Geumsol_set_001/0010_Geumsol_set_001_0030.mb",
+  "file_name": "0010_Geumsol_set_001_0030.mb",
+  "author": "ParkJiHun_",
+  "logs": [
+    {
+      "timestamp": "2026-07-06 20:22:17",
+      "author": "ParkJiHun_",
+      "note": "디네이블에서 작업\n손가락 리깅 잘못되어있어서 수정, tpos 이걸로 생성"
+    }
+  ],
+  "thumb_rel": "thumbs/00_03_01_RIG_01_PJ/scenes/0010_Geumsol_set_001/0010_Geumsol_set_001_0030.mb.png",
+  "updated_by": "ParkJiHun_",
+  "updated_at": "2026-07-06 20:22:24"
+}
