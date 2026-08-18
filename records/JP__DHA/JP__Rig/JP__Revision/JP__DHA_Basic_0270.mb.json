@@ -1,0 +1,15 @@
+{
+  "key": "JP__DHA/JP__Rig/JP__Revision/JP__DHA_Basic_0270.mb",
+  "file_name": "JP__DHA_Basic_0270.mb",
+  "author": "Dnable_JunnyPark",
+  "logs": [
+    {
+      "timestamp": "2026-08-06 14:52:27",
+      "author": "Dnable_JunnyPark",
+      "note": "페이셜 1차 피드백 반영중\n\nmouthLowerDownLeft, Right 0.25 로 축소\njawForward 0.25 로 축소\nmouthPucker 0.5 로 축소\nmouthFunnel 0.5 로 축소\nmouthSmileLeft, Right 0.5 로 축소\nmouthStretchLeft, rIght 0.5 로 축소\nmouthPressLeft, right 0.5 로 축소"
+    }
+  ],
+  "thumb_rel": "",
+  "updated_by": "Dnable_JunnyPark",
+  "updated_at": "2026-08-06 16:54:09"
+}

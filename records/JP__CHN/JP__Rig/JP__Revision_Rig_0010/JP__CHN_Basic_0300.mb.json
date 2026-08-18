@@ -1,0 +1,15 @@
+{
+  "key": "JP__CHN/JP__Rig/JP__Revision_Rig_0010/JP__CHN_Basic_0300.mb",
+  "file_name": "JP__CHN_Basic_0300.mb",
+  "author": "Dnable_JunnyPark",
+  "logs": [
+    {
+      "timestamp": "2026-08-13 17:38:46",
+      "author": "Dnable_JunnyPark",
+      "note": "페이셜 수정 시작\nmouthSmile L R 모두 볼 더 들어가서 날렵한 턱이 되도록 수정\ntoothFix_01 1.3 으로 fix\ntoothFix_02 치아 앞으로 나오는 타겟 만들어서  0.78 로 픽스"
+    }
+  ],
+  "thumb_rel": "",
+  "updated_by": "Dnable_JunnyPark",
+  "updated_at": "2026-08-14 10:18:17"
+}
